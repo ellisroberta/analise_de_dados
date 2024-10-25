@@ -1,4 +1,4 @@
-   # Curso Eu ProgrAmo | Analise de Dados em python 🔎📊📈
+   # Curso Eu ProgrAmo | Analise de Dados em python 📊📈
 
 
 Bem-vindo ao repositório do meu projeto inspirado no curso "Meus Primeiros Passos em Python" da PrograMaria. Aqui, você encontrará um conjunto de análises práticas que utilizei para aprimorar minhas habilidades em Python, explorando bibliotecas como Pandas, Numpy e Scipy no Jupyter Notebook. O projeto também abrange SQL com DBeaver e SQLite, além de visualizações de dados com matplotlib, seaborn, plotly e Looker, e uma introdução aos conceitos básicos de machine learning.
